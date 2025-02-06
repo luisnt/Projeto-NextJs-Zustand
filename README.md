@@ -142,6 +142,10 @@ Para criar componentes reutilizáveis e estilizados, siga os passos abaixo:
    }
    ```
 
+## ✨ Preview
+
+[https://projeto-nextjs-zustand.vercel.app](https://projeto-nextjs-zustand.vercel.app)
+
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
