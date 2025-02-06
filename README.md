@@ -36,7 +36,7 @@ Siga estas etapas para configurar o projeto localmente:
    ```
 2. 📂 Navegue até o diretório do projeto:
    ```sh
-   cd shared-state-pages
+   cd Projeto-NextJs-Zustand
    ```
 3. 📦 Instale as dependências:
    ```sh
