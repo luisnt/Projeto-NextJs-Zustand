@@ -155,7 +155,7 @@ Este projeto foi desenvolvido por **Luis Caldas**, Senior Software Engineer.
   <a href="https://www.linkedin.com/in/luisnt" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;"></a>
   <a href="https://github.com/luis-portfolio/Index" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="vertical-align: middle;"></a>
   <a href="https://g.dev/luisnt" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google Dev" style="vertical-align: middle;"></a>
-  <a href="https://www.grepper.com/profile/luisnt" style="text-decoration: none;"><img src="https://seeklogo.com/images/G/grepper-logo-C48D8B98F3-seeklogo.com.png" width="48"  alt="Greeper" style="vertical-align: middle;"></a>
+  <a href="https://www.grepper.com/profile/luisnt" style="text-decoration: none;"><img src="./public/grepper-logo.png" width="48"  alt="Greeper" style="vertical-align: middle;"></a>
   <a href="https://wa.me/5598981112233" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" style="vertical-align: middle;"></a>
   <a href="https://t.me/luisnt" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" style="vertical-align: middle;"></a>
 </div>
