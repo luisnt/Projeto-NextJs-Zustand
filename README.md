@@ -32,7 +32,7 @@ Siga estas etapas para configurar o projeto localmente:
 
 1. 📥 Clone o repositório:
    ```sh
-   git clone https://github.com/luis-portfolio/Projeto-NextJs-Zustand.gi
+   git clone https://github.com/luis-portfolio/Projeto-NextJs-Zustand.git
    ```
 2. 📂 Navegue até o diretório do projeto:
    ```sh
