@@ -13,7 +13,6 @@ export default function Login() {
   return (<>
     <Title>Formulário de Login</Title>
     <Button onClick={handleLogin}>Entrar</Button>
-    <Button href="https://github.com/luis-portfolio/Projeto-NextJs-Zustand" target="_blank">Código Fonte</Button>
   </>
   )
 }
